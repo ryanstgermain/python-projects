@@ -4,4 +4,5 @@ All of the Python projects I have created while taking online courses.
 
 ## Project Descriptions
 
-- Converter: Convert mi to km or the other way around.
+- Converter: Converts your cycling trip from miles to kilometers.
+- Bouncer: Determines your level in the club based on your age.
