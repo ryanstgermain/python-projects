@@ -8,3 +8,4 @@ All of the Python projects I have created while taking online courses.
 - Bouncer: Determines your level in the club based on your age.
 - Rock, Paper, Scissors Vs. Bot: Play rock paper scissors with a python bot.
 - Rock, Paper, Scissors 2 Player: Play rock paper scissors with a friend.
+- Guessing Game: The computer chooses a number and your job is to guess it.
