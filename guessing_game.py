@@ -1,6 +1,6 @@
-import random
+from random import randint
 
-random_number = random.randint(1,10)
+random_number = randint(1,10)
 
 while True:
     guess = input("Pick a number from 1 to 10: ")
@@ -13,7 +13,7 @@ while True:
         print("You got it!")
         play_again = input("Do you want to play again? (y/n) ")
         if play_again == "y":
-            random_number = random.randint(1,10)
+            random_number = randint(1,10)
             guess = None
         else:
             print("Thank you for playing.")

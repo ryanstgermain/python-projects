@@ -2,11 +2,11 @@ print("Rock...")
 print("Paper...")
 print("Scissors..")
 
-player1 = input("Player 1, rock, paper, or scissors? ")
+player1 = input("Player 1, make your move: ")
 print("-----------------------------------------------------\n" * 15)
 print("-------------------- NO CHEATING --------------------\n")
 print("-----------------------------------------------------\n" * 15)
-player2 = input("Player 2, rock, paper, or scissors? ")
+player2 = input("Player 2, make your move: ")
 
 if player1 == player2:
     print("It's a tie!")
